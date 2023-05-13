@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **javascript and React**
 
-- 📫 How to reach me **[mailto:yunusabdulmajidyunus38@gmail.com](yunusabdulmajidyunus38@gmail.com)**
+- 📫 How to reach me **[yunusabdulmajidyunus38@gmail.com](yunusabdulmajidyunus38@gmail.com)**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/pwckumuag3](https://flowcv.com/resume/pwckumuag3)
 
