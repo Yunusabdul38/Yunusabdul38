@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **I’m looking to connect with people, and also work on open source or a group projects**
+- 👯 I’m looking to collaborate on **with frontend developers, and also work on open source or a group projects**
 
-- 🤝 I’m looking for help with **I'm loooking for help with open source**
+- 🤝 I’m looking for help with **open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yunusabdul38?tab=repositories](https://github.com/Yunusabdul38?tab=repositories)
 
 - 💬 Ask me about **javascript and React**
 
-- 📫 How to reach me **yunusabdulmajidyunus38@gmail.com**
+- 📫 How to reach me **[https:mailto:yunusabdulmajidyunus38@gmail.com](yunusabdulmajidyunus38@gmail.com)**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/pwckumuag3](https://flowcv.com/resume/pwckumuag3)
 
