@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus Abdulmajid</h1>
-<h3 align="center">A passionate and a self learning frontend developer from Nigeria</h3>
+<h3 align="center">A passionate self learning frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusabdul38&label=Profile%20views&color=0e75b6&style=flat" alt="yunusabdul38" /> </p>
 
