@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yunusabdul38" target="blank"><img src="https://img.shields.io/twitter/follow/yunusabdul38?logo=twitter&style=for-the-badge" alt="yunusabdul38" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **web3** and **typescript**
 
 - 👯 I’m looking to collaborate on **I’m looking to connect with people, and also work on open source or group projects**
 
