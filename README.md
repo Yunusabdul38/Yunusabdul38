@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yunusabdulmajidyunus38@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/pwckumuag3](https://flowcv.com/resume/pwckumuag3)
+- 📄 Know about my experiences [doc](https://docs.google.com/document/d/1EyB5VI_ZGagvGxfzfW7m_LbIbrWOh0Ujzi74441UrK8/edit?tab=t.0#heading=h.vwisv6a0el6j)
 
 - ⚡ Fun fact **Nothing worth having comes easy**
 
