@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus Abdulmajid</h1>
-<h3 align="center">A passionate self learning frontend developer</h3>
+<h3 align="center">A passionate self learning full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusabdul38&label=Profile%20views&color=0e75b6&style=flat" alt="yunusabdul38" /> </p>
 
@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/yunusabdul38" target="blank"><img src="https://img.shields.io/twitter/follow/yunusabdul38?logo=twitter&style=for-the-badge" alt="yunusabdul38" /></a> </p>
 
-- 🌱 I’m currently learning **web3** and **typescript**
-
 - 👯 I’m looking to collaborate on **I’m looking to connect with people, and also work on open source or group projects**
 
 - 🤝 I’m looking for help with **I'm loooking for help with open source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yunusabdul38?tab=repositories](https://github.com/Yunusabdul38?tab=repositories)
+- 👨‍💻 Recent project [yunusabdul](https://yunusabdul.vercel.app/)
 
 - 💬 Ask me about **javascript and React**
 
